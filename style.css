@@ -1,1 +1,14 @@
-body{font-family:sans-serif;}
+body{font-family:Tahoma,Arial,sans-serif;direction:rtl;text-align:right;background:#f0f4ff;margin:0;}
+header{background:#3456a8;color:#fff;padding:20px;text-align:center;}
+header h1{margin:0;font-size:26px;}
+header .subtitle{margin-top:5px;font-size:14px;opacity:.9;}
+nav{background:#dde4ff;padding:10px;text-align:center;}
+nav a{margin:0 10px;color:#283a70;font-weight:bold;text-decoration:none;}
+nav a:hover{text-decoration:underline;}
+main{max-width:900px;margin:20px auto;background:#fff;padding:20px;border-radius:10px;box-shadow:0 0 10px rgba(0,0,0,.1);}
+h2{color:#3456a8;margin-top:0;}
+p,li{font-size:15px;line-height:1.7;}
+.main-image{max-width:100%;border-radius:10px;margin:10px 0;box-shadow:0 0 8px rgba(0,0,0,.15);}
+table{width:100%;border-collapse:collapse;margin-top:10px;}
+td,th{border:1px solid #ccc;padding:8px;text-align:center;}
+footer{text-align:center;background:#dde4ff;padding:10px;margin-top:20px;font-size:13px;}
